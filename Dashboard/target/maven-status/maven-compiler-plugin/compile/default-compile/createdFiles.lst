@@ -1,0 +1,5 @@
+com\cromixsoft\Dashboard\repository\CityRepository.class
+com\cromixsoft\Dashboard\DashboardApplication.class
+com\cromixsoft\Dashboard\models\City.class
+com\cromixsoft\Dashboard\controllers\CityController.class
+com\cromixsoft\Dashboard\models\Elev.class
